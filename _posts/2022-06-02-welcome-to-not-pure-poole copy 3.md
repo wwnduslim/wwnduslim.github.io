@@ -1,11 +1,10 @@
 ---
-layout: archive-taxonomies
+layout: post
 title: Welcome
 date: 2022-06-02 13:56 +0800
 last_modified_at: 2022-06-02 13:56 +0800
 tags: [jekyll theme, jekyll, tutorial]
 toc:  true
-type: categories
 ---
 
 ## Welcome
