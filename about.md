@@ -3,6 +3,7 @@ layout: page
 title: About
 ---
 
-**Not Pure Poole** is a simple, beautiful, and powerful Jekyll theme for blogs. It is built on [Poole](https://github.com/poole/poole) and [Pure](https://purecss.io/).
+**Jooyeon Lim** A person who tries to move every step forward.
 
-For more information about Not Pure Poole, please browse the [README](https://github.com/vszhub/not-pure-poole) file.
+Visit my page on [Github](https://github.com/wwnduslim) and [Instagram](https://www.instagram.com/wwnduslim/).
+
