@@ -7,7 +7,9 @@ tags: [코딩테스트, 프로그래머스]
 toc:  true
 ---
 
-## 코딩테스트
+# 코딩테스트
+### 성장과정의 기록
+
 ```python
 # 꾸준히 풀기
 # 복습하고 풀이를 내 것으로 만들기
@@ -22,7 +24,9 @@ toc:  true
 # 변수 선언은 for문 밖에 하기 (for문 특징 이해)
 ```
 
-## 문자열 바꾸기
+# 문자열
+
+## lv1. 문자열 바꾸기
 
 ```python
 def solution(phone_numbers):
@@ -37,7 +41,7 @@ def solution(phone_numbers):
 
 ```
 
-## 없는 숫자 더하기
+## lv1. 없는 숫자 더하기
 ```python
 def solution(numbers):
     return sum(range(10)) - sum(numbers)
@@ -45,7 +49,7 @@ def solution(numbers):
 # sum(range(10)) : 1부터 9까지의 숫자를 더한다
 ```
 
-## 문자열 가운데 출력
+## lv1. 문자열 가운데 출력
 ```python
 def solution(s):
     answer = s[(len(s) - 1) // 2 : len(s) // 2 + 1]
@@ -57,7 +61,7 @@ def solution(s):
 # // 몫, / 나누기, % 나머지
 ```
 
-## 문자열 정렬하기
+## lv1. 자열 정렬하기
 ```python
 def solution(strings, n):
     
@@ -71,7 +75,7 @@ def solution(strings, n):
 # x[n]에 맞춰 정렬하고, 중복일 땐 x(string)에 맞추기
 ```
 
-## 문자열 내 알파벳 개수
+## lv1. 문자열 내 알파벳 개수
 ```python
 def solution(s):
     answer = True
@@ -85,7 +89,7 @@ def solution(s):
 # s.lower().count('p) 로 한꺼번에 바꿔도 됨
 ```
 
-## 문자열 숫자 구성 확인
+## lv1. 문자열 숫자 구성 확인
 ```python
 def solution(s):
     if (len(s)==4 or len(s)==6) and s.isdigit():
@@ -98,7 +102,7 @@ def solution(s):
 # s.isdigit() : 문자열의 숫자 확인 함수
 ```
 
-## 문자열 내림차순 배열
+## lv1. 문자열 내림차순 배열
 ```python
 def solutions(s):
     return ''.join(sorted(s,reverse=True))
@@ -110,7 +114,7 @@ def solutions(s):
 # 혹은 answer = answer.join 해줘도 됨
 ```
 
-## K번째 수
+## lv1. K번째 수
 ```python
 def solution(array, commands):
     answer = []
@@ -125,7 +129,7 @@ def solution(array, commands):
 # range의 경우 a:b에서 b는 포함이 안되므로 1을 안빼지만 a와 인덱스는 1 빼주기
 ```
 
-## 숫자 문자열과 영단어
+## lv1. 숫자 문자열과 영단어
 ```python
 def solution(s):
     num_dict = {"zero":"0", "one":"1", "two":"2", "three":"3", "four":"4", "five":"5", "six":"6", "seven":"7", "eight":"8", "nine":"9"}
