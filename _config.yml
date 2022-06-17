@@ -1,11 +1,11 @@
 # Setup
 title: Jooyeon Lim
-description: Welcome to my space where I record my growth processes about coding
+description: Sea never get wet
 url: https://wwnduslim.github.io
 avatar: /avatar.jpeg
 paginate: 5
 permalink: pretty
-cover_image: /bg1.jpeg
+cover_image: /bg2.jpeg
 
 # Gems
 plugins:
