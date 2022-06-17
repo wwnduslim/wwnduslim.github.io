@@ -61,7 +61,7 @@ def solution(s):
 # // 몫, / 나누기, % 나머지
 ```
 
-## lv1. 자열 정렬하기
+## lv1. 문자열 정렬하기
 ```python
 def solution(strings, n):
     
