@@ -24,9 +24,3 @@ type: categories
 - Totally understand the little distribution of the data that was provided.
 - Determine the Classifiers we are going to use and decide which one has a higher accuracy.
 - Understand common mistake made with imbalanced datasets and be able to correct it by myself.
-
-
-
-
-
-
