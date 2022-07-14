@@ -2,7 +2,6 @@
 layout: post
 title: Data Analysis
 date: 2022-07-12 13:56 +0800
-last_modified_at: 2022-07-13 13:56 +0800
 tags: [데이터분석, 케글]
 toc:  true
 layout: archive-taxonomies
