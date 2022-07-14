@@ -9,8 +9,6 @@ toc:  true
 
 # 코딩테스트
 ### 성장과정의 기록
-layout: archive-taxonomies
-type: categories
 
 ```python
 # 꾸준히 풀기
