@@ -19,7 +19,6 @@ toc:  true
 - Clustering
     - Clustering is one of the machine-learning methods that classify the datas by the similar characteristics. It us commonly used in pattern recognition or sorting the similar news. KMeans, DBSCAN, Hierachical clustering, Spectral Clustering are the examples of Clustering algorithm. 
 
-    image.png
+    - Image below is the comparision graph about the Clustering algorithm performances.
 
-
-    비슷한 뉴스나 사용 패턴이 유사한 사용자를 묶어 주는것과 같은 패턴 인지나, 데이타 압축등에 널리 사용되는 학습 방법이다.클러스터링은 라벨링 되어 있지 않은 데이타를 묶는 경우가 일반적이기 때문에 비지도학습 (Unsupervised learning) 학습 방법이 사용된다.클러스터링 알고리즘은 KMeans, DBSCAN, Hierarchical clustering, Spectral Clustering 등 여러가지 기법이 있으며, 알고르즘의 특성에 따라 속도나 클러스터링 성능에 차이가 있기 때문에, 데이타의 모양에 따라서 적절한 클러스터링 알고리즘을 선택하는 것이 중요하다. 다음은 sklearn에 나와 있는 각 클러스터링 알고리즘의 성능에 대한 비교표이다. 
+![1](https://user-images.githubusercontent.com/90083517/178922264-9d0a2307-8f6f-44c6-9092-b44d69e160e1.png)
