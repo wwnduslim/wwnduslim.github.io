@@ -21,4 +21,6 @@ toc:  true
 
     - Image below is the comparision graph about the Clustering algorithm performances.
 
-![1](https://user-images.githubusercontent.com/90083517/178922264-9d0a2307-8f6f-44c6-9092-b44d69e160e1.png)
+    ![1](https://user-images.githubusercontent.com/90083517/178922264-9d0a2307-8f6f-44c6-9092-b44d69e160e1.png){: width="60%" height="60%"}{: .center}
+
+    - 
